@@ -1,0 +1,172 @@
+.nav1{
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+    
+    
+     
+}
+.img1{
+
+width: 200px;
+height:150px ;
+align-items: center;
+
+
+
+}
+body{
+    background-color: rgba(228, 97, 16, 0.811);
+}
+li{
+    list-style: none;
+}
+.div1{
+    display: flex;
+    flex-direction:row ;
+    gap: 50px;
+    margin-right: 10%;
+    
+
+}
+button{
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    font-size: 35px;
+    background-color: rgba(255, 234, 0, 0.811);
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+     font-family:  Arial, Helvetica, sans-serif;
+    
+    
+}
+button:hover{
+    background-color: rgb(229, 249, 0);
+}
+.button2{
+    font-size: 35px;
+    background-color: rgba(255, 234, 0, 0.811);
+}
+
+
+.div2{
+display: flex;
+justify-content:space-around;
+
+
+
+
+
+}
+.img2{
+
+    border-radius: 40px;
+    height: 350px;
+    width: 600px;
+    margin-top: 35px;
+   
+}
+p{
+    color: aliceblue;
+ font-weight: bold;
+ font-size: 25px;
+}
+h1{
+    color: yellow;
+     font-weight: bold;
+     font-size: 50px;
+    
+}
+.button3{
+    position: absolute;
+    top: 300px;
+    left:320px ;
+    top: 416px;
+    height: 37px;
+    border-radius: 30px;
+    
+    
+    
+}
+.div3{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  
+}
+input{
+    display: flex;
+    font-size: 30px;
+    border-radius: 40px;
+    border: none;
+    color: black;
+   
+    /* left: 100px ; */
+    margin-right:850px;
+    font-weight: bold;
+}
+section{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #E97F3D;
+    color: red;
+    border: none;
+    height: 200px;
+    text-align: center;
+    
+}
+.box1{
+
+    background-color: rgb(195, 49, 44);
+    border-radius: 30px;
+    width: 200px;
+    
+}
+.box2{
+
+    background-color: rgb(195, 49, 44);
+    border-radius: 30px;
+    width: 200px;
+}
+.box3{
+
+    background-color: rgb(195, 49, 44);
+    border-radius: 30px;
+    width: 200px;
+    
+}
+.box4{
+
+    background-color: rgb(195, 49, 44);
+    border-radius: 30px;
+    
+width: 200px;
+}
+.relogio{
+    position: absolute;
+    height: 100px;
+    left: 200px;
+    top: 680px;
+}
+.cliente{
+    position: absolute;
+    height: 100px;
+    left: 675px;
+    top: 680px;
+}
+.frango{
+    position: absolute;
+    height: 100px;
+    left: 1140px;
+    top: 680px;
+    
+}
+.Entrega{
+    position: absolute;
+    height: 100px;
+    left: 1630px;
+    top: 680px;
+}
