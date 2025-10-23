@@ -1,0 +1,6 @@
+CREATE TABLE curso(
+id INTEGER   PRIMARY KEY AUTOINCREMENT,
+nome TEXT NOT NULL,
+carga_horaria TEXT NOT NULL,
+data date NOT NULL
+)
